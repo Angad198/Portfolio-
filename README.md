@@ -46,7 +46,7 @@ This portfolio highlights my technical skills, projects, certifications, and pro
 
 ## 💻 Technical Skills
 
-![Skills](assets/Screenshoots/Skills.png)
+![Skills](assets/Screenshoots/Skill.png)
 
 ---
 

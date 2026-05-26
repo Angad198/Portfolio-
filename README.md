@@ -8,9 +8,6 @@ This portfolio highlights my technical skills, projects, certifications, and pro
 
 ## 🌐 Live Portfolio
 
-🔗 **Portfolio Website:** *(Add GitHub Pages link here later)*
-
-🔗 **GitHub Profile:** https://github.com/Angad198
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/angad-singh-501971204/
 
@@ -43,25 +40,25 @@ This portfolio highlights my technical skills, projects, certifications, and pro
 
 ## 🏠 Homepage
 
-![Homepage](assets/screenshots/homepage.png)
+![Homepage](assets/Screenshoots/homepage.png)
 
 ---
 
 ## 💻 Technical Skills
 
-![Skills](assets/screenshots/skills.png)
+![Skills](assets/Screenshoots/Skills.png)
 
 ---
 
 ## 🚀 Projects Section
 
-![Projects](assets/screenshots/projects.png)
+![Projects](assets/Screenshoots/projects.png)
 
 ---
 
 ## 📩 Contact Section
 
-![Contact](assets/screenshots/contact.png)
+![Contact](assets/Screenshoots/Contact.png)
 
 ---
 
